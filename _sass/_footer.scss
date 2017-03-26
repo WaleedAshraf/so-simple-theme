@@ -31,3 +31,22 @@
     }
   }
 }
+
+.contact-page {
+  ul {
+    li {
+      list-style: none;
+      a {
+        border: none;
+        &:hover {
+          color: indianred !important;
+          border-bottom-style: none !important;
+        }
+        i {
+          padding-right: 10px;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+}
