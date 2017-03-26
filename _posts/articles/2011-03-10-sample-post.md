@@ -5,10 +5,11 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 modified: 2016-06-01T14:17:25-04:00
 categories: articles
 tags: [sample-post]
+author: waleed_ashraf
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: cover_arch.jpg
+  credit: thomashawk.com
+  creditlink: http://thomashawk.com/
 comments: true
 share: true
 ---
