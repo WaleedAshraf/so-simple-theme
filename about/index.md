@@ -1,26 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About me!
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: cover.jpg
+  credit: newyork-wallpapers
+  creditlink: http://www.newyork-wallpapers.com/user-content/uploads/wall/o/66/Taxis-2560x1600-Wallpaper
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## What you looking for ?
 
-## So Simple Theme is all about:
+I'm a full stack geek with a lot of love for latest technologies. Experienced in **MEAN** stack, **JAVA/Android** and **ASP.NET** and always exploring new ways of development. With great skills and teamwork capabilities I can develop **state-of-the-art** software solutions for you.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## EXPERIENCES:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+I've benn working at [caremrge](caremerge) from past 6 months now. Experienced in #NodeJS #Angular #JavaScript #Gulp #Travis #Karma #Mocha #TDD #Agile and manymore.
