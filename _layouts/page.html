@@ -34,6 +34,9 @@
 {% endif %}
 
 {% include scripts.html %}
+{% if jekyll.environment != 'dev' %}
+  {% include analytics.html %}
+{% endif %}
 
 </body>
 </html>
