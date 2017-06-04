@@ -13,3 +13,27 @@
       color: #dd4b39
   }
 }
+.mb1 {
+  margin-bottom: 1em;
+}
+.mb05 {
+  margin-bottom: 0.5em;
+}
+.mt05 {
+  margin-top: 0.5em;
+}
+.mt05,.mb1,.mb05 {
+  a {
+    color: #f0c113;
+  }
+  a:visited {
+    color: #f0c113;
+  }
+}
+.mb05 + p > a {
+  color: #f0c113;
+}
+.mb05 + p > a:visited {
+  color: #f0c113;
+}
+
