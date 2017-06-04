@@ -19,8 +19,8 @@ Working as a full stack developer at careaxiom. Working at backend with **nodejs
 
 <h5 class="mt05 mb05"><a title="Palyoad" href="https://github.com/payloadtech/asgard/graphs/contributors">Payload</a></h5>
 <h6 class="mt05 mb05">Lead Developer - (July 2015 - Dec 2015)</h6>
-Payload was a startup incubated at Plan9 in sixeth cycle. We implemented A Bitcoin and blockchain technology and service system. Technology for sellers to accept bitcoin as a payment medium from their customers. We won **500$ Prize money at Throwathon** held at LUMS by NetSol.
-I worked on Nodejs / Expressjs (Sailsjs also) / PostgreSQL / Angular / Bootstrap / HTML5
+Payload was a startup incubated at Plan9 in sixeth cycle. We implemented A Bitcoin and blockchain technology and service system. Technology for sellers to accept bitcoin as a payment medium from their customers. We won **500$ Prize money at Throwathon** which was held at LUMS by NetSol.
+At Payload I worked on Nodejs / Expressjs (Sailsjs also) / PostgreSQL / Angular / Bootstrap / HTML5.
 Check [**Github**](https://github.com/payloadpk/asgard/graphs/contributors) repo.
 
 <h5 class="mt05 mb05">Microsoft Student Partner</h5>
@@ -34,6 +34,6 @@ I also achived MCP certificates as:
 
 
 ##### <span class="mt05 mb05">Other achivemnets</span>
-I also have keen interest in online cources. I have completed dozens of them through different platforms. The most amazing one was **Introduction to Artificial Intelligence**. A 3 months course held at Stanford University with participants from all around the world by Prof .Peter Norvig and Sebastian Thrun back in 2011. Which was a great success and so the Udacity formed.
+I also have keen interest in online cources. I have completed dozens of them through different platforms. The most amazing one was **Introduction to Artificial Intelligence**. A 3 months course held at Stanford University with participants from all around the world by Prof .Peter Norvig and Sebastian Thrun back in 2011. Which was a great success and led to formation of Udacity later on.
 
 For more info, check my linkedIn page from bellow.
