@@ -29,11 +29,20 @@
   a:visited {
     color: #f0c113;
   }
+  a:hover {
+    color: #222;
+  }
 }
 .mb05 + p > a {
   color: #f0c113;
 }
 .mb05 + p > a:visited {
   color: #f0c113;
+}
+.mb05 + p > a:hover {
+  color: #222;
+}
+.adj-font {
+  font-size: 0.7em;
 }
 
