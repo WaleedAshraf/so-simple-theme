@@ -19,8 +19,8 @@ Working as a full stack developer at careaxiom. Working at backend with **nodejs
 
 <h5 class="mt05 mb05"><a title="Palyoad" href="https://github.com/payloadtech/asgard/graphs/contributors">Payload</a></h5>
 <h6 class="mt05 mb05">Lead Developer - (July 2015 - Dec 2015)</h6>
-Payload was a startup incubated at Plan9 in sixeth cycle. We implemented A Bitcoin and blockchain technology and service system. Technology for sellers to accept bitcoin as a payment medium from their customers. We won **500$ Prize money at Throwathon** which was held at LUMS by NetSol.
-At Payload I worked on Nodejs / Expressjs (Sailsjs also) / PostgreSQL / Angular / Bootstrap / HTML5.
+Payload was a startup incubated at Plan9 in sixth cycle. We implemented a Bitcoin and blockchain technology and service system. More like a POS for sellers to accept bitcoin as a payment medium from their customers. We won **500$ Prize money at Throwathon** which was held at LUMS by NetSol.
+At Payload I worked on Nodejs / Expressjs (Sailsjs too) / PostgreSQL / Angular / Bootstrap / HTML5.
 Check [**Github**](https://github.com/payloadpk/asgard/graphs/contributors) repo.
 
 <h5 class="mt05 mb05">Microsoft Student Partner</h5>
