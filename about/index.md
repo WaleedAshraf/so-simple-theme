@@ -17,6 +17,11 @@ I'm a full stack geek with a lot of love for latest technologies. Experienced in
 <h6 class="mt05 mb05">Full-Stack Developer - (July 2016 - Present)</h6>
 Working as a full stack developer at careaxiom. Working at backend with **nodejs**, **mocha**, **bluebird**, **gulp** and **webpack** and a lot of other super awesome modules. I did setup angular testcase bolierplate, upgraded sequelize from v2 to latest v4, enabled parallel testing on travis to help save us time and a made this cool hubot [**caari**](https://www.caari.io) which help us in dozens of daily tasks with slack.
 
+<h5 class="mt05 mb05"><a title="caari" href="https://caari.io/">caari</a></h5>
+<h6 class="mt05 mb05">Founder - (Aug 2016 - Present)</h6>
+caari is a open source bot. Based on idea to provide multiple integrations through one service. Like travis, slack, Google Docs, Facebook, Github and more.
+It's build on Hubot with coffee script.
+
 <h5 class="mt05 mb05"><a title="Palyoad" href="https://github.com/payloadtech/asgard/graphs/contributors">Payload</a></h5>
 <h6 class="mt05 mb05">Lead Developer - (July 2015 - Dec 2015)</h6>
 Payload was a startup incubated at Plan9 in sixth cycle. We implemented a Bitcoin and blockchain technology and service system. More like a POS for sellers to accept bitcoin as a payment medium from their customers. We won **500$ Prize money at Throwathon** which was held at LUMS by NetSol.
