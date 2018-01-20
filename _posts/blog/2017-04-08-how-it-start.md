@@ -7,6 +7,7 @@ categories: blog
 tags: [first,post,blog]
 author: waleed_ashraf
 image:
+  path: https://waleedashraf.me/images/cover_arch.jpg
   feature: cover_arch.jpg
   credit: thomashawk
   creditlink: http://thomashawk.com/

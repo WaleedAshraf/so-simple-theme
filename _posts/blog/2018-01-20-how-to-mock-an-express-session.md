@@ -7,6 +7,7 @@ categories: blog
 tags: [expressjs,nodejs,mocha,cookies,cookie-session,crypto,javascript]
 author: waleed_ashraf
 image:
+  path: https://waleedashraf.me/images/cover_arch.jpg
   feature: cover_arch.jpg
   credit: thomashawk
   creditlink: http://thomashawk.com/
