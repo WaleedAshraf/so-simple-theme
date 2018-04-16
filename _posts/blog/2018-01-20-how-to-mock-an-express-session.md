@@ -2,7 +2,7 @@
 layout: post
 title: How to mock an Express session?
 excerpt: "Mock session object in Nodejs integration test-cases."
-modified: 2018-01-20T15:15:25+05:00
+modified: 2018-04-16T14:53:25+05:00
 categories: blog
 tags: [expressjs,nodejs,mocha,cookies,cookie-session,crypto,javascript]
 author: waleed_ashraf
