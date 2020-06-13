@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Waleed Ashraf"
-description: "All my writings comes here."
+description: "My writings..."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://waleedashraf.me
 logo: "/images/site-logo.png"
